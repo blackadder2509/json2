@@ -1,51 +1,50 @@
 {
- 	"Questions":[
-  {
-    "id": 1,
-    "title":"Question 1",
-    "content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
-    "answers": [
-      "ice-skate","Wolf hunting","Quidditch","Football"
+  "Questions":[
+    {
+      "id": 1,
+      "title":"Question 1",
+      "content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
+      "answers": [
+        "ice-skate","Wolf hunting","Quidditch","Football"
       ],
-    "right_answer": 3
+      "right_answer": 3
     },
-
-{
- 	 "id": 2,
-   "title":"Question 2",
-    "content": "Which of these houses does not belong to Hogwarts?",
-    "answers": [
-      "Hufflepuff House","Ravenclaw house","Gryffindor House","Slytherin House"
-    ],
-    "right_answer": 3
-    },
-
-  {
-    "id": 3,
-    "title":"Question 3",
-    "content": "What spell can levitate an object?",
-    "answers": [
-      "Summoning Charm","Levitation Charm","Stupefy","Voleti Voleta"
+    {
+      "id": 2,
+      "title":"Question 2",
+      "content": "Which of these houses does not belong to Hogwarts?",
+      "answers": [
+        "Hufflepuff House","Ravenclaw house","Gryffindor House","Slytherin House"
       ],
-      "right_answer":2
-  },
+      "right_answer": 3
+    },
 
     {
-    "id": 4,
-    "title":"Question 4",
-    "content": "Who is the director of Hogwarts in the first year of Harry Potter?",
-    "answers": [
-		"Albus Dumbledore","Severus Snape","Rubeus Hagrid","Dolores Jane Umbridge"
-    ],
-    "right_answer": 1
-  },
-  {
-    "id": 5,
-    "content": "What is so special about Neville Longbottom?",
-    "answers": [
-   		"He was not invited to school","He uses an umbrella to do magic","He always forgets what he has to do","He flies upside down on his broom"
-    ],
-    "right_answer": 3
-  },
-]
-  }
+      "id": 3,
+      "title":"Question 3",
+      "content": "What spell can levitate an object?",
+      "answers": [
+        "Summoning Charm","Levitation Charm","Stupefy","Voleti Voleta"
+      ],
+      "right_answer":2
+    },
+
+    {
+      "id": 4,
+      "title":"Question 4",
+      "content": "Who is the director of Hogwarts in the first year of Harry Potter?",
+      "answers": [
+        "Albus Dumbledore","Severus Snape","Rubeus Hagrid","Dolores Jane Umbridge"
+      ],
+      "right_answer": 1
+    },
+    {
+      "id": 5,
+      "content": "What is so special about Neville Longbottom?",
+      "answers": [
+        "He was not invited to school","He uses an umbrella to do magic","He always forgets what he has to do","He flies upside down on his broom"
+      ],
+      "right_answer": 3
+    }
+  ]
+}
