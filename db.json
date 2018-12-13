@@ -9,22 +9,18 @@
       ],
     "right_answer": 3
     },
-    ]
+
 {
-  "Questions":[
-    {
  	 "id": 2,
    "title":"Question 2",
     "content": "Which of these houses does not belong to Hogwarts?",
     "answers": [
-      "Hufflepuff House","Ravenclaw house","Gryffindor House","Slytherin House"],
+      "Hufflepuff House","Ravenclaw house","Gryffindor House","Slytherin House"
+    ],
     "right_answer": 3
     },
-  ]
-}
-{
-  "Questions":[
-    {
+
+  {
     "id": 3,
     "title":"Question 3",
     "content": "What spell can levitate an object?",
@@ -33,10 +29,7 @@
       ],
       "right_answer":2
   },
-]
-}
-{
-  "Question 4":[
+
     {
     "id": 4,
     "title":"Question 4",
@@ -46,11 +39,7 @@
     ],
     "right_answer": 1
   },
-]
-}
-{
-  "Questions":[
-    {
+  {
     "id": 5,
     "content": "What is so special about Neville Longbottom?",
     "answers": [
