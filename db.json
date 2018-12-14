@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title":"Question 1",
-      "content": "What sport does the young Harry Potter practice while studying at Hogwarts?",
+      "content": "Which sport does the young Harry Potter practice while studying at Hogwarts?",
       "answers": [
         "ice-skate","Wolf hunting","Quidditch","Football"
       ],
@@ -16,7 +16,7 @@
       "answers": [
         "Hufflepuff House","Ravenclaw house","Gryffindor House","Slytherin House"
       ],
-      "right_answer": 3
+      "right_answer": 2
     },
 
     {
@@ -45,6 +45,62 @@
         "He was not invited to school","He uses an umbrella to do magic","He always forgets what he has to do","He flies upside down on his broom"
       ],
       "right_answer": 3
-    }
+    },
+    {
+    "id": 6,
+    "content": "Which potion makes you look like another?",
+    "answers": [
+      "Polyjuice Potion",
+      "Wolfsbane Potion",
+      "Methamorphosis",
+      "Veritaserum"
+    ],
+    "right_answer": 1
+  },
+  {
+    "id": 7,
+    "content": "Which animal is Fawkes?",
+    "answers": [
+      "A hippogriff","A dragon","A monkey","A phoenix"
+    ],
+    "right_answer": 4
+  },
+  	{
+    "id": 8,
+    "content": "What is the nearest village to Hogwarts and the terminus of the Hogwarts Express?",
+    "level": 2,
+    "theme": "Places and landscapes",
+    "answers": [
+      "Hogwarts beach",
+      "Paris",
+      "Hogsmeade",
+      "Azkaban"
+    ],
+    "right_answer": 3
+  },
+	{
+    "id": 9,
+    "content": "What is the name of the plan on which we can follow each individual present at Hogwarts?",
+    "level": 2,
+    "theme": "Magic object",
+    "answers": [
+      "The TOM-TOM map",
+      "The Marauder's map",
+      "The magic card",
+      "The plan you-are-here"
+    ],
+    "right_answer": 2
+  },
+  {
+    "id": 10,
+    "content": "With what Curse were the parents of Neville Longbottom tortured?",
+    "answers": [
+      "Avada Kedavra",
+      "Summoning Charm",
+      "Cruciatus Curse",
+      "Sectumsempra"
+    ],
+    "right_answer": 3
+}
   ]
 }
